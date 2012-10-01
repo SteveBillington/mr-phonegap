@@ -1,0 +1,102 @@
+body {
+	font-family:Georgia,serif;
+	background-image:url('../images/bg_grass.jpg');
+}
+
+a {
+	text-decoration:none;
+	color:#4040AD;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+#container {
+	width:960px;
+	margin:0 auto;
+	background:#fff;
+}
+
+header {
+	background-color:#d0b462;
+}
+
+header h3#tagline {
+	float:right;
+	font-size:12px;
+	color:#fff;
+	font-style:italic;
+	margin:36px 36px 0 0;
+}
+
+header #logo {
+	margin:10px 0 10px 36px;
+}
+
+nav {
+	padding:10px 36px 10px 36px;
+	float:right;
+}
+
+nav ul {
+	display:inline;
+}
+
+nav ul li {
+	display:inline;
+}
+
+nav ul li a {
+	color:#fff;
+	text-decoration:none;
+	margin-left:20px;
+}
+
+#maincontent {
+	width:593px;
+	padding:10px 0 36px 36px;
+	float:left;
+}
+
+#maincontent h1 {
+	font-size:36px;
+	margin:5px 0 20px 0;
+}
+
+#maincontent .game {
+	float:left;
+	width:286px;
+	line-height:14px;
+	font-size:14px;
+	margin:5px;
+}
+
+#maincontent .game img {
+	float:left;
+	margin:0 10px 0 0;
+}	
+
+#sidebar {
+	width:259px;
+	float:right;
+	padding:36px;
+	color:#333;
+	line-height:20px;
+}
+
+#sidebar h3 {
+	font-style:italic;
+	font-size:20px;
+	margin:0 0 5px 0;
+}
+
+#footerinfo {
+	clear: both;
+	background-color:#151570;
+	padding:10px 0 10px 36px;
+}
+
+#footerinfo p {
+	color:#fff;
+}
