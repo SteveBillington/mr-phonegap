@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.mr.phonegap;
+package com.google.zxing.client.android;
 
 public final class R {
     public static final class attr {
